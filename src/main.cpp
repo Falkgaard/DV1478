@@ -278,7 +278,7 @@ void ur::init() {
 }
 
 I32 main( I32 argc, CStr argv[] ) {
-   Vec<Str> words = { "Arse", "Ass", "Bottocks", "Bum", "Butt" };
+   Vec<Str> words = { "This", "Is", "A", "Wee", "Test" };
    for ( auto [i,e]: IPair(words) ) 
       fmt::print( "The word at index {} is: '{}'\n", i, e );
    return EXIT_SUCCESS;
