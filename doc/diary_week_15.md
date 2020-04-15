@@ -14,3 +14,13 @@ I've also found out who my supervisor is (Lawrence Henesey).
 Last week I put together a two page brief just to compile my hypotheses, hopes, and any potential shortcomings that I could think of into a more digestible summary. I'll put it in: ./doc/prelimary_brief.pdf
 
 After setting up the github repository I intend to soldier through the ~1K LoC needed to render a triangle as well as go through some of the course material (such as the handy flow chart) to see how to best proceed. I'll also get in touch with my supervisor so that I can bring him up-to-date (and hopefully be brought up-to-date myself as to what to focus on).
+
+# Thursday
+
+Had a call with my supervisor Lawrence. Under his advice I'll do more research via the library narrow down the scope of my research and find a good point of contribution.
+Spent the evening browsing the BTH library and googling around with little success.
+
+# Friday
+
+Continued working on the project skeleton and trying to find pre-existing relevant research.
+
