@@ -19,4 +19,5 @@ Gonna spend a couple of hours around noon and the evening to try and see if I ca
 Got a fever. I'll only spend a couple of hours researching today.
 
 # Friday
+
 Got some nausea and stomach pains too. Taking the day off.
