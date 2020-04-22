@@ -12,7 +12,7 @@ Going to contact Lawrence today and see if he's okay, since he hasn't replied in
 
 # Wednesday
 
-...
+Had a meeting with Lawrence today.  Agenda for the rest of the week: Look into techniques etc. Next meeting's on friday.
 
 # Thursday
 
