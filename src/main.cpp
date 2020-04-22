@@ -136,7 +136,7 @@
                // Theme }}}
             // Structs }}}
             // Global Constants {{{
-               // Colors {{{
+               // Color Codes {{{
                namespace CC {
                   U8 constexpr blue_light   =  81;
                   U8 constexpr blue         =  33;
@@ -174,11 +174,11 @@
                // Colors }}}
                // Default Theme {{{
                static Theme const theme {
-                  /* .critical      */ { FG{ CC::white       },  BG{ CC::red   },  Mod::bold & Mod::underline },
+                  /* .critical      */ { FG{ CC::white       },  BG{ CC::red   },  Mod::bold | Mod::underline },
                   /* .error         */ { FG{ CC::red_light   },  BG{           },  Mod::bold                  },
                   /* .warning       */ { FG{ CC::yellow      },  BG{           },  Mod::bold                  },
                   /* .plain         */ { FG{ CC::grey_dark   },  BG{           },  Mod::none                  },
-                  /* .header1       */ { FG{ CC::white       },  BG{           },  Mod::bold & Mod::underline },
+                  /* .header1       */ { FG{ CC::white       },  BG{           },  Mod::bold | Mod::underline },
                   /* .header2       */ { FG{ CC::grey_light  },  BG{           },  Mod::bold                  },
                   /* .header3       */ { FG{ CC::grey        },  BG{           },  Mod::bold                  },
                   /* .debug         */ { FG{ CC::blue_light  },  BG{           },  Mod::none                  },
