@@ -16,8 +16,8 @@ Had a meeting with Lawrence today.  Agenda for the rest of the week: Look into t
 
 # Thursday
 
-...
+Put together a preliminary brief for the alternate research proposal (since the first one seemed to have been a bit of a dud). Researched it on Scopus.
 
 # Friday
 
-...
+More research on Scopus plus a meeting with Larry. Set the plan to gather 15 papers (and summarize them) by next Friday.
