@@ -14,7 +14,7 @@ Now I've gathered 20 relevant papers/books/etc. Now begins the tedious (but fun)
 
 # Thursday
 
-Still reviewing the material. Done with maybe four. Going to aim for around ten by the end of the day (or around fifteen by tomorrow afernoon).
+Still reviewing the material. Done with maybe six or so now. Going to aim for around ten by the end of the day (or around fifteen by tomorrow afernoon).
 
 # Friday
 
