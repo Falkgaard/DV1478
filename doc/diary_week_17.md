@@ -7,7 +7,7 @@ Still feel like shit. Not much luck with the research. Starting to feel rather h
 # Tuesday
 
 I think I'm starting to recover from being sick.
-Going to contact Lawrence today and see if he's okay, since he hasn't replied in almost two weeks. Hopefully the situation in Dubai hasn't gotten worse. Today I've been going through pretty much all of the keywords I can think of over at SCOPUS, but nothing relevant to sky maps, sky boxes etc has come up. Not sure how to reformulate and focus my research question. :(
+Going to contact Lawrence today and see if he's okay, since he hasn't replied in almost two weeks. Hopefully the situation in Dubai hasn't gotten worse. Today I've been going through pretty much all of the keywords I can think of over at SCOPUS, but nothing relevant to sky maps, sky boxes etc has come up. Not sure how to reformulate and focus my research question.
 
 # Wednesday
 
@@ -19,4 +19,4 @@ Put together a preliminary brief for the alternate research proposal (since the 
 
 # Friday
 
-More research on Scopus plus a meeting with Larry. Set the plan to gather 15 papers (and summarize them) by next Friday.
+More research on Scopus plus a meeting with Lawrence. Set the plan to gather 15 papers (and summarize them) by next Friday.
