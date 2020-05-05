@@ -22,4 +22,4 @@ Ended up pulling an all nighter, done reviewing most of 20 papers (one was a dud
 
 Seems I lasted to just a bit past 3 PM before passing out, just woke up and it's now 10:30 PM. I haven't heard from Lawrence, but I'll wait until a not so ungodly hour and check with him tomorrow if we can have the meeting sometime during the weekend or maybe on Monday instead. Sorry, I hope it didn't cause an inconvenience!
 
-**Update:** Seems Lawrency was busy on Friday anyways, so we rescheduled for next week. Meeting's on Tuesday.
+**Update:** Seems Lawrence was busy on Friday anyways, so we rescheduled for next week. Meeting's on Tuesday.
