@@ -15,6 +15,8 @@ Last week I put together a two page brief just to compile my hypotheses, hopes, 
 
 After setting up the github repository I intend to soldier through the ~1K LoC needed to render a triangle as well as go through some of the course material (such as the handy flow chart) to see how to best proceed. I'll also get in touch with my supervisor so that I can bring him up-to-date (and hopefully be brought up-to-date myself as to what to focus on).
 
+(Transitioning to new format of having one entry per day):
+
 # Thursday
 
 Had a call with my supervisor Lawrence. Under his advice I'll do more research via the library narrow down the scope of my research and find a good point of contribution.
