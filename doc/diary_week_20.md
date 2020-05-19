@@ -14,8 +14,8 @@ Continuing to refine the document. Been working on a test simulation for the alg
 
 # Thursday
 
-...
+Spent the day working on code, felt worse. Might take the next day off.
 
 # Friday
 
-...
+Taking the day off, hopefully I'll get better over the weekend.
