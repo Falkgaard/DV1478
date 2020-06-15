@@ -1,4 +1,4 @@
-# Diary, Week 20
+# Diary, Week 21
 
 # Monday
 
@@ -10,12 +10,12 @@ Feeling a bit better, still taking it slow. A bit worried about the upcoming dea
 
 # Wednesday
 
-TBD
+Feeling worse. Taking the day off.
 
 # Thursday
 
-TBD
+Much worse. Going to take a break until I recover.
 
 # Friday
 
-TBD
+N/A.
