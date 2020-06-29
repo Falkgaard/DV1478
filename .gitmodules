@@ -1,6 +1,3 @@
 [submodule "lib/hello_imgui"]
 	path = lib/hello_imgui
 	url = https://github.com/pthom/hello_imgui.git
-[submodule "lib/stb"]
-	path = lib/stb
-	url = https://github.com/gracicot/stb-cmake.git
